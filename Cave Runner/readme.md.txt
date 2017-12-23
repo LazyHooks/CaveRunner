@@ -13,3 +13,12 @@ Jumping on enemies kills them.
 Every new level is a checkpoint. 
 Highscores get stored. 
 Includes Boss. 
+
+Music:
+"Lightless Dawn" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+"Volatile Reaction" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
